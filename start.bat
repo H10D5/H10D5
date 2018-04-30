@@ -1,0 +1,3 @@
+node link.js
+
+pause

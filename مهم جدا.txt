@@ -1,0 +1,36 @@
+
+شكرا على التحميل .. 
+
+OSAMA TECH - اسامة تك 
+
+رابط قاتي : 
+https://www.youtube.com/channel/UC96lr3TZqWbt3glG0awZC-g
+
+--
+.
+يوم : 86400
+.
+. ثلاث ساعات : 10800
+-
+- بكجات 
+
+npm install discord.js
+.
+npm install discord.js --save
+
+--
+برنامج نودي : 
+http://gsul.me/aqkm
+--
+فيجول ستديو كود : 
+http://gsul.me/axVA
+--
+موقع الديسكورد : 
+https://discordapp.com/developers/applications/me
+
+- مقاطع *
+كيف تسوي برود كاست  : 
+https://youtu.be/XJtFIuDWdxk
+-
+كيف تغير التاق حقك : 
+https://youtu.be/oNPPjfnMPLs
